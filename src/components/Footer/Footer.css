@@ -1,0 +1,16 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 9rem;
+}
+
+
+
+.footer-text {
+    color: #6C63FF;
+    text-decoration: none;
+}
+
+.footer-text:hover {
+    font-size: 18px;
+}

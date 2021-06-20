@@ -1,0 +1,11 @@
+body {
+    background: #0f1228;
+    /* prevents spreading in x axis */
+    overflow-x: hidden; 
+    color: #e7e9f0;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}

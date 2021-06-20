@@ -1,0 +1,36 @@
+.head-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.head-image {
+    width: auto;
+    transition: max-width 2s, min-width 2s;
+}
+
+.head-image-expand{
+    min-width: 230px;
+    max-width: 250px;
+}
+
+.head-image-contract{
+    max-width: 80px;
+    min-width: 40px;
+
+
+}
+.head-text{
+    font-family: 'Girassol';
+    margin: 5px 0 15px 0;
+    transition: font-size 2s;
+}
+
+.head-text-expand {
+    font-size: 36px;
+}
+
+.head-text-contract {
+    font-size: 14px;
+}
