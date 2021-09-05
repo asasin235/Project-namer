@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="/" target="_blank">Name That Project</a>
+  <a href="https://name-guesser.netlify.app/" target="_blank">Name That Project</a>
 </div>
 
 # What is this?
